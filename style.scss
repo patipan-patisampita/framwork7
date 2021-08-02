@@ -1,0 +1,17 @@
+$them-color: forestgreen;
+$main-color:blueviolet;
+
+header {
+    color: $them-color;
+}
+
+main {
+    background-color: $main-color;
+}
+footer {
+    color: $them-color;
+}
+
+input[type=button] {
+    background-color: $them-color;
+}
